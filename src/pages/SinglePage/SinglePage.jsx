@@ -22,7 +22,7 @@ export const SinglePage = ({ data }) => {
     fetch(seasonsURL)
       .then((response) => response.json())
       .then((data) => setSeasons(data));
-  }, []);
+  }, [id]);
 
   useEffect(() => {
     const castURL = `https://api.tvmaze.com/shows/${id}/cast`;
