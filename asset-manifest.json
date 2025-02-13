@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/React-tv-shows/static/css/main.5eda9e87.css",
-    "main.js": "/github.io/React-tv-shows/static/js/main.ee72801d.js",
-    "index.html": "/github.io/React-tv-shows/index.html",
-    "main.5eda9e87.css.map": "/github.io/React-tv-shows/static/css/main.5eda9e87.css.map",
-    "main.ee72801d.js.map": "/github.io/React-tv-shows/static/js/main.ee72801d.js.map"
+    "main.css": "/React-tv-shows/static/css/main.5eda9e87.css",
+    "main.js": "/React-tv-shows/static/js/main.9089f8b4.js",
+    "index.html": "/React-tv-shows/index.html",
+    "main.5eda9e87.css.map": "/React-tv-shows/static/css/main.5eda9e87.css.map",
+    "main.9089f8b4.js.map": "/React-tv-shows/static/js/main.9089f8b4.js.map"
   },
   "entrypoints": [
     "static/css/main.5eda9e87.css",
-    "static/js/main.ee72801d.js"
+    "static/js/main.9089f8b4.js"
   ]
 }
