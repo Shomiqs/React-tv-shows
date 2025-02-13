@@ -68,7 +68,6 @@ export const SinglePage = ({ data }) => {
                 ))}
               </ul>
             </div>
-            ()
           </div>
         </div>
         <div className="single-page-summary">
