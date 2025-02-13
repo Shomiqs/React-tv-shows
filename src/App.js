@@ -18,10 +18,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route
-          path="/React-tv-shows/"
-          element={<HomePage showsData={data} />}
-        />
+        <Route path="React-tv-shows/" element={<HomePage showsData={data} />} />
         <Route path="/show/:id" element={<SinglePage data={data} />} />
       </Routes>
     </div>
