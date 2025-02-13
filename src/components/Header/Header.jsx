@@ -43,6 +43,7 @@ function Header() {
             className="search-input"
             value={searchQuery}
             onChange={handleChange}
+            placeholder="Search..."
           />
         </div>
         {searchQuery && searchResults.length > 0 && (
