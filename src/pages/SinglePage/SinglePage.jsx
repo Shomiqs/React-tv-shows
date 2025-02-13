@@ -30,7 +30,7 @@ export const SinglePage = ({ data }) => {
     fetch(castURL)
       .then((response) => response.json())
       .then((data) => setCasts(data));
-  }, []);
+  }, [id]);
 
   return (
     <>
