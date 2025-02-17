@@ -3,7 +3,7 @@ import "./App.css";
 import { HomePage } from "./pages/HomePage/HomePage";
 import { SinglePage } from "./pages/SinglePage/SinglePage";
 import { SHOW_URL } from "./constants";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   const [data, setData] = useState([]);
